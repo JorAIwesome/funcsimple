@@ -1,0 +1,14 @@
+azure-functions
+azure-storage-file
+azure-storage-common
+azure-storage-blob
+azure-keyvault-secrets
+azure-identity
+pyodbc
+pytest
+pytest-mock
+elasticsearch
+PyPDF2
+langchain_community
+langchain
+openai
